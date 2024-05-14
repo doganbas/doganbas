@@ -6,11 +6,6 @@
 <p>In addition to serving in various companies and positions, I provided software consultancy to numerous firms during my tenure in my own company. These experiences not only strengthened my technical knowledge but also enhanced my leadership and communication skills.</p>
 <p>In pursuit of future goals, I aim to elevate the trajectory of my career and contribute to impactful and inspiring projects in this dynamic industry. With an unwavering commitment to continuous learning and development, I aspire to remain focused on new objectives while maintaining my passion and dedication.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doganbas&label=Profile%20views&color=0e75b6&style=flat" alt="doganbas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doganbas" alt="doganbas" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/serkandoganbas" target="blank"><img src="https://img.shields.io/twitter/follow/serkandoganbas?logo=twitter&style=for-the-badge" alt="serkandoganbas" /></a> </p>
 
 - 🔭 I’m currently working on **React Native Projects**
 
@@ -21,6 +16,14 @@
 - 📫 How to reach me **serkan@doganbas.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/doganbas/](https://www.linkedin.com/in/doganbas/)
+
+
+
+
+
+
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -45,3 +48,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doganbas&show_icons=true&locale=en" alt="doganbas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doganbas&" alt="doganbas" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doganbas&label=Profile%20views&color=0e75b6&style=flat" alt="doganbas" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doganbas" alt="doganbas" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/serkandoganbas" target="blank"><img src="https://img.shields.io/twitter/follow/serkandoganbas?logo=twitter&style=for-the-badge" alt="serkandoganbas" /></a> </p>
