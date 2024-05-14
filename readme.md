@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Serkan DOGANBAS</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
+<p>
+  Hello, i am Serkan DOGANBAS, and I embarked on my career as a software developer in 2009, constantly seeking growth and advancement ever since. I initially began my journey focusing on .NET technologies, but as time progressed, I developed a deep expertise and interest in front-end and mobile programming with the introduction of JavaScript and subsequently React Native.
+</p>
+<p>In addition to serving in various companies and positions, I provided software consultancy to numerous firms during my tenure in my own company. These experiences not only strengthened my technical knowledge but also enhanced my leadership and communication skills.</p>
+<p>In pursuit of future goals, I aim to elevate the trajectory of my career and contribute to impactful and inspiring projects in this dynamic industry. With an unwavering commitment to continuous learning and development, I aspire to remain focused on new objectives while maintaining my passion and dedication.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doganbas&label=Profile%20views&color=0e75b6&style=flat" alt="doganbas" /> </p>
 
